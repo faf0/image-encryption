@@ -2,7 +2,7 @@
 
 Implementation of the color image encryption (and decryption) algorithm from the paper
 
-  Hongjun Liu and Xingyuan Wang. Color Image Encryption using Spatial Bit-Level Permutation and High-Dimension Chaotic System. Optics Communications, 284(16-17):3895–3903, August 2011
+    Hongjun Liu and Xingyuan Wang. Color Image Encryption using Spatial Bit-Level Permutation and High-Dimension Chaotic System. Optics Communications, 284(16-17):3895–3903, August 2011
 
 for the GPU in CUDA and for the CPU in C and Julia.
 
